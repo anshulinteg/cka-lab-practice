@@ -21,6 +21,7 @@ etcd recovery > [etcd recovery github](https://github.com/etcd-io/etcd/blob/mast
 
 ```bash
 Allowed combination of kubernetes binary versions:
+Commands:
 
 kube-apiserver - version X
 controller-manager - version X-1
